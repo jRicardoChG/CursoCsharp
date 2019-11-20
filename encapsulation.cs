@@ -9,8 +9,9 @@
 // las demas clases solo podran usar los methodos publicos del objeto
 
 
-/// los static members  no pertenecen a un unico objeto declarado, pertenecen a la clase misma
+// los static members  no pertenecen a un unico objeto declarado, pertenecen a la clase misma
 // aca lo interesante es que la funcion fruitType  es propia de la clase y va a retorar lo mismo para todos los bojetos que pertencezca a la clase, nada raro
+// 
 
 using System;
 using System.Collections.Generic;
